@@ -12,19 +12,19 @@
     "repository": "https://github.com/The-HellBot/HellBot/",
     "env": {
         "API_HASH": {
-            "description": "Get this value from my.telegram.org",
+            "description": "3c14bf7c5f422231bd3603c1ae16f935",
             "value": ""
         },
         "API_ID": {
-            "description": "Get this value from my.telegram.org",
+            "description": "20819878",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Make a bot from @BotFather and paste the bot token here.",
+            "description": "7216918201:AAHS436qLmb8FgcNZEcadPLOf9Hpdhtw1OA",
             "value": ""
         },
         "DATABASE_URL": {
-            "description": "Only use mongodb url here. Get it from https://mongodb.com/",
+            "description": "mongodb+srv://jnrzdoa979:jnrzdoa979@cluster0.oudreja.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
             "value": ""
         },
         "HANDLERS": {
@@ -33,11 +33,11 @@
             "required": false
         },
         "LOGGER_ID": {
-            "description": "The chat id of your logging channel/group.",
+            "description": "-1002234357024",
             "value": ""
         },
         "OWNER_ID": {
-            "description": "Your user id.",
+            "description": "6685576178",
             "value": ""
         },
         "HEROKU_APPNAME": {
